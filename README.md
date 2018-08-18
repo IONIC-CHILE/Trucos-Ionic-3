@@ -6,3 +6,6 @@ apt-get install -y nodejs
 
 # Instalado Ionic
 npm install -g cordova ionic
+
+# Crear una app
+ionic start helloWorld blank
