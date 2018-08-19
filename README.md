@@ -22,3 +22,9 @@ ionic start helloWorld blank
 ```
 code .
 ```
+
+# Generando un Provider
+```
+ionic g provider database
+```
+
