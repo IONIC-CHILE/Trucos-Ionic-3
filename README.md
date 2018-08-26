@@ -1,10 +1,10 @@
 # Ionic 
 ```
-ionic start blank
-ionic start tabs
-ionic start sidemenu
-ionic start super
-ionic start tutorial
+ionic start ejemplo blank
+ionic start ejemplo tabs
+ionic start ejemplo sidemenu
+ionic start ejemplo super
+ionic start ejemplo tutorial
 ```
 
 
